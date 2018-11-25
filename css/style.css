@@ -34,8 +34,10 @@
   position: absolute;
   right: 80px;
   bottom: 30px;
-    
-
-
- 
+}
+#details {
+  width: 600px;
+  margin: auto;
+  text-align: left;
+  padding-top: 10px;
 }
